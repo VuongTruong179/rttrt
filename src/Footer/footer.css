@@ -1,0 +1,45 @@
+ul {
+    list-style: none;
+}
+
+.footer {
+    background-color: #24262b;
+    margin-top: 3rem;
+}
+
+.footer-col {
+    padding: 30px;
+    text-align: center;
+}
+
+.footer-col ul li a:hover {
+    color: #ffffff;
+    padding-left: 8px;
+}
+
+.footer-col .social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: -1rem 10px 1rem 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 10%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+
+.footer-col .social-links a:hover {
+    color: #24262b;
+    background-color: #ffffff;
+}
+
+.container-p-footer {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.container-p-footer p {
+    color: white;
+}
